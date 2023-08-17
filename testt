@@ -1,0 +1,4 @@
+go mod init github/com/nikitazapekin/golang-ts-todo-application
+go get -u github.com/gofiber/fiber/v2
+ npm create vite client -- --template react-ts
+ npm i @mantine/hooks @mantine/core swr @primer/octicons-react
